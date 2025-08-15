@@ -1,5 +1,5 @@
 # Prime_video_PowerBI
-📊 [Prime Video BI Dashboard](BI_primevideo.png)
+📊 ![Prime Video BI Dashboard](BI_primevideo.png)
 
 This project presents a Business Intelligence (BI) dashboard for analyzing content available on Amazon Prime Video. It includes visual insights on ratings, genres, countries, release years, and the distribution of movies vs. TV shows.
 
